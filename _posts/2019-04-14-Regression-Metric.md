@@ -1,6 +1,9 @@
 ---
 layout: post
-title: Model evaluation: regression metrics
+title: Model evaluation
+subtitle: regression metrics
+category: blog
+tags: Metrics, General
 ---
 
 #### 1. Root Mean Square Error (RMSE)
