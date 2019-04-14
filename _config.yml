@@ -16,6 +16,9 @@ baseurl: ""
 # Name of website
 title: Bailey Lei
 
+# Short description of your site
+description: "A personal blog about Machine Learning, Statistics and more."
+
 
 # --- Navigation bar options --- #
 
