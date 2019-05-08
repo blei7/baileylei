@@ -1,12 +1,9 @@
 ---
 layout: post
-title: Winning my first Hackathon
-subtitle: EasyMarkit AI Hackathon
+title: Winning my first Hackathon: EasyMarkit AI Hackathon
 category: blog
 tags: Team Sigma, Hackathon, AI, Healthcare
 ---
-
-#### Winning my first Hackathon: EasyMarkit AI Hackathon
 
 On April 6, 2019, EasyMarkit hosted their first Hackathon in Vancouver where teams were asked to offer an AI solution to improve patient communication. My team Sigma (Bailey Lei, Alex Pak, Betty Zhou) was awarded first place based on the accuracy of our model in predicting communication response from patients.
 

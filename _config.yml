@@ -26,6 +26,7 @@ description: "A personal blog about Machine Learning, Statistics and more."
 navbar-links:
   About Me: "aboutme"
   Project:
+    - TreeViz: "https://github.com/blei7/TreeViz"
     - US Crime: "https://baileylei.shinyapps.io/VisualizingCrimeUS/"
     - mList: "https://github.com/UBC-MDS/mlist_Python"
     - Chocolate Rating: "https://github.com/UBC-MDS/DSCI_522_blei7_georgejjw_coco"
