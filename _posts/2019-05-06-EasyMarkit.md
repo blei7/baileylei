@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Winning my first Hackathon: EasyMarkit AI Hackathon
+title: Winning the EasyMarkit AI Hackathon
 category: blog
 tags: Team Sigma, Hackathon, AI, Healthcare
 ---
